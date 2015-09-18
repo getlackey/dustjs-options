@@ -10,6 +10,6 @@ This is an early release of this helpers and they haven't been tested outside ou
 
 	var dustjs = require('dustjs-linkedin'),
         dustjs.helpers = require('dustjs-helpers').helpers, // optional, but a good idea
-        lackey-dustjs-options = require('lackey-dustjs-options');
+        lackeyDustjsOptions = require('lackey-dustjs-options');
 
-    lackey-dustjs-options(dustjs);
+    lackeyDustjsOptions(dustjs);
